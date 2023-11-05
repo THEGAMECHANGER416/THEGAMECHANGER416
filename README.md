@@ -1,16 +1,19 @@
-### Hi there 👋
+<html>
+<body>
+  
+<div align="center">
+  <span>
+  <h1 align="center">Hello, I'm Arnav Kohli 👋 </h1>
+  <h4 align="center">I'm an AI enthusiast. Please take a look at my <a href="" target="_blank">resume</a> for more information.</h4>
+  </span>
+</div>
 
-<!--
-**THEGAMECHANGER416/THEGAMECHANGER416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/THEGAMECHANGER416">
+    <img src="https://github.com/THEGAMECHANGER416/THEGAMECHANGER416/resources/grid-snake.svg" alt="snake">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
