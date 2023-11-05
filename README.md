@@ -8,12 +8,9 @@
   </span>
 </div>
 
------
-
 <div align="center">
   <a href="https://github.com/THEGAMECHANGER416">
-    <img src="https://github.com/THEGAMECHANGER416/THEGAMECHANGER416/resources/grid-snake.svg" alt="snake">
+    <img src="https://github.com/THEGAMECHANGER416/THEGAMECHANGER416/blob/main/resources/grid-snake.svg" alt="snake">
   </a>
 </div>
 
------
