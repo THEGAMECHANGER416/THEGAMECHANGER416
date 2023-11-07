@@ -14,3 +14,4 @@
 </div>
 <h6 align="center">Please take a look at my <a href="" target="_blank">resume</a> for more information.</h6>
 
+[![An image of @thegamechanger416's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thegamechanger416)](https://holopin.io/@thegamechanger416)
