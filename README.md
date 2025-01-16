@@ -12,6 +12,6 @@
     <img src="https://github.com/THEGAMECHANGER416/THEGAMECHANGER416/blob/main/resources/grid-snake.svg" alt="snake">
   </a>
 </div>
-<h6 align="center">Please take a look at my <a href="https://drive.google.com/file/d/1-1hg3z-7bc6Un2EWtNAJOXe10JkagFWG/view?usp=drivesdk" target="_blank">resume</a> for more information.</h6>
+<h6 align="center">Please take a look at my <a href="https://drive.google.com/file/d/1oOsbCVJz7iWx4_VsJdq7_i5vP51k0DLJ/view" target="_blank">resume</a> for more information.</h6>
 
 [![An image of @thegamechanger416's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thegamechanger416)](https://holopin.io/@thegamechanger416)
